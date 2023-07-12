@@ -20,11 +20,11 @@ final logLevelPriorityList = [
   LogLevel.critical,
   LogLevel.error,
   LogLevel.warning,
-  LogLevel.debug,
-  LogLevel.verbose,
   LogLevel.info,
   LogLevel.fine,
-  LogLevel.good
+  LogLevel.good,
+  LogLevel.debug,
+  LogLevel.verbose,
 ];
 
 /// Extension to get console log title of log level
