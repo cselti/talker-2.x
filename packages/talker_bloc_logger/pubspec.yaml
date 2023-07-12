@@ -14,7 +14,7 @@ dependencies:
     git:
       url: https://github.com/cselti/talker-2.x
       ref: main
-      path: talker/
+      path: packages/talker/
   bloc: ^8.1.0
   meta: ^1.8.0
 

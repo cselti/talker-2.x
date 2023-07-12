@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/cselti/talker-2.x
       ref: main
-      path: talker_logger/
+      path: packages/talker_logger/
 
 dev_dependencies:
   lint: ^2.0.1
